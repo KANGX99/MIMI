@@ -1,0 +1,14 @@
+ftfy
+matplotlib
+numpy
+pillow
+pandas
+regex
+scikit-learn
+scipy
+tabulate
+torch
+torchvision
+tqdm
+clip==1.0
+
